@@ -9,5 +9,3 @@ The mods themselves are listed here: https://github.com/yuzu-emu/yuzu/wiki/Switc
 
 ## Credits:
 [theboy181](https://github.com/theboy181)
-
-[M&M](https://github.com/slashiee)
